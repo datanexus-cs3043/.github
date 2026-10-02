@@ -1,13 +1,13 @@
 # DataNexus
 
-Central repository organization for **MedSync / CATMS** (Clinical & Administrative Treatment Management System), developed for **CS3043 Database Systems** at the Department of Computer Science and Engineering, University of Moratuwa.
+Central repository organization for **MedSync / CATMS** (Clinic Appointment and Treatment Management System), developed for **CS3043 Database Systems** at the Department of Computer Science and Engineering, University of Moratuwa.
 
 ## Organization Repositories
 
-- **[CATMS-Backend](https://github.com/datanexus-cs3043/CATMS-Backend)**: Spring Boot 3 application, Spring JDBC data access layer, MySQL database scripts, and Docker Compose configuration.
-- **[CATMS-Frontend](https://github.com/datanexus-cs3043/CATMS-Frontend)**: React, Vite, and Tailwind CSS client application containerized with Nginx.
+- **[CATMS-Backend](https://github.com/datanexus-cs3043/CATMS-Backend)**: Python FastAPI application, psycopg 3 data access layer, PostgreSQL scripts for the Neon-hosted database, and Docker Compose configuration.
+- **[CATMS-Frontend](https://github.com/datanexus-cs3043/CATMS-Frontend)**: React 19, TypeScript, and Vite client application containerized with Nginx.
 - **[project-docs](https://github.com/datanexus-cs3043/project-docs)**: Centralized documentation repository containing system architecture, database design, and workflow guidelines.
-- **[.github](https://github.com/datanexus-cs3043/.github)**: Organization profile and workspace configuration.
+- **[.github](https://github.com/datanexus-cs3043/.github)**: Organization profile and shared GitHub configuration.
 
 ## System Documentation
 
